@@ -26,4 +26,4 @@ Or contact me with [LinkedIn]([url](https://www.linkedin.com/in/maryan-vereshcha
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mturnaviotov&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mturnaviotov&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mturnaviotov.mturnaviotov)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarianVer.profile)
